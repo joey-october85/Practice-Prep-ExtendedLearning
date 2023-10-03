@@ -1,2 +1,2 @@
 # Practice-Prep-ExtendedLearning
-Repository for post Boot Camp practice, learning, interview/job prep and refining coding skills
+Repository for practicing code, interview prep, continue learning and improving skills
