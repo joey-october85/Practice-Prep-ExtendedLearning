@@ -8,7 +8,7 @@
 # the license agreement, didn’t you?) You can write a simple stopwatch program
 # yourself in Python.
 # At a high level, here’s what your program will do:
-# TODO: 1. Track the amount of time elapsed between presses of the enter key, # with each key press starting a new “lap” on the timer.
+# TODO: 1. Track the amount of time elapsed between presses of the enter key, with each key press starting a new “lap” on the timer.
 # TODO: 2. Print the lap number, total time, and lap time. Keeping Time, Scheduling Tasks, and Launching Programs 393 
 
 # This means your code will need to do the following:
